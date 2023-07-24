@@ -10,8 +10,8 @@ pacman::p_load(
     "circlize", "zoo", "nichenetr", "tidyverse", "GSVA", "magrittr",
     "ggforce", "dplyr"
 )
-setwd("/work/xiaxy/work/RA/NC")
-source("/work/xiaxy/work/RA/NC/Dependent.R")
+setwd("/work/xiaxy/work/RA/")
+source("/work/xiaxy/work/RA/Dependent.R")
 #############################################################
 
 
