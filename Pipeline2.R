@@ -25,7 +25,7 @@ data_combined %<>% ScaleData(features = all.genes) %>%
 
 ## RunPCA for reducing the dimensionality
 data_combined %<>% RunPCA(object = ., features = VariableFeatures(object = .)) %>%  #nolint
-    RunFastMNN(object = ., object.list = SplitObject(., split.by = "SampleID"))
+    RunFastMNN(object = ., object.list = SplitObject(., split.by = "sampleid"))
 
 ## batch effect correction and findclusters
 data_combined %<>% FindNeighbors(reduction = "mnn", dims = 1:30) %>%
