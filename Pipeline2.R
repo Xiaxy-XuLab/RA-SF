@@ -35,7 +35,7 @@ data_combined %<>% RunTSNE(reduction = "mnn", dims = 1:30) %>%
     RunUMAP(reduction = "mnn", dims = 1:30)
 
 ## save RDS file for subsequent analysis
-saveRDS(data_combined, "final_input.Rds")
+saveRDS(data_combined, "input.Rds")
 
 pdf("umap.pdf", width = 9, height = 9)
 DimPlot(data_combined, reduction = "umap", label = TRUE) + NoLegend()
