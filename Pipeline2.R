@@ -14,7 +14,7 @@ data_combined[["percent.mt"]] <- PercentageFeatureSet(
 )
 
 ## Remove low quality cells, normalization and select top 2,000 variably expressed genes #nolint
-data_combined %<>% subset(subset = nFeature_RNA > 200 & nFeature_RNA < 6000 & percent.mt < 20) %>% #nolint
+data_combined %<>% subset(subset = nFeature_RNA > 200 & nFeature_RNA < 4000 & percent.mt < 15) %>% #nolint
     NormalizeData(normalization.method = "LogNormalize") %>%
     FindVariableFeatures(selection.method = "vst")
 
