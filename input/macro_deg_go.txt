@@ -1,0 +1,5 @@
+iterm	qvalue
+inflammatory response	1.80E-06
+response to hypoxia	6.80E-06
+angiogenesis	1.30E-05
+response to cytokine	3.80E-05
