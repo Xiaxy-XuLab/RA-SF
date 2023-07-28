@@ -82,4 +82,16 @@ M1 <- c(
     "IRF5", "IRF1", "CD40", "IDO1", "KYNU", "CCR7", "CD45",
     "CD68", "CD115", "HLA-DRA", "CD205", "CD14"
 )
+tmarkerlist <- list(
+    "Naive T" = c("IL7R", "CCR7"),
+    "ZNF683+ CD8+ Trm" = c("ZNF683", "CCL5", "ITGA1", "CD8A", "GZMH", "TRGC2"), # nolint
+    "GZMK+ CD8+ Tem1" = c("GZMK", "CD8A", "EOMES", "GZMA", "GZMH", "NKG7", "CCL5", "KLRG1", "GZMB"), # nolint
+    "GZMK+ CD8+ Tem2" = c("MYADM", "LMNA", "ANXA1", "TUBA1A", "JUND", "KLF6", "GZMK", "CCL5", "RGCC", "NKG7"), # nolint
+    "GZMK+ CD8+ NKTem" = c("KLRD1", "TRGC2", "TRDC", "CCL4", "CCL5", "NKG7", "KLRB1", "KLRG1"), # nolint
+    "GNLY+ NK" = c("GNLY", "TYROBP", "KLRC1", "FCER1G", "KLRD1", "TRDC", "XCL2", "XCL1", "KLRF1", "KLRB1", "CEBPD"), # nolint
+    Treg = c("FOXP3", "IL2RA", "RTKN2", "TBC1D4", "CTLA4", "TIGIT"), # nolint
+    "CD4+ Tex" = c("CXCL13", "CD4", "MAF", "TNFRSF18", "CTLA4", "TIGIT"), # nolint
+    "Proliferating CD8+ T" = c("STMN1", "TYMS", "MKI67", "TOP2A", "UBE2C", "CD8A"), # nolint
+    "Proliferating NK" = c("UBE2C", "BIRC5", "KIF20A", "TYMS", "SPC25", "TOP2A", "MKI67", "KLRC1", "KLRD1", "NKG7") # nolint
+)
 #################################################################
