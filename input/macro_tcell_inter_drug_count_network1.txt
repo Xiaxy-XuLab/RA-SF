@@ -1,0 +1,401 @@
+SOURCE	TARGET	count
+SPP1+ Mac_OA_BT_None	SPP1+ Mac_OA_BT_None	9
+SPP1+ Mac_OA_BT_None	S100A12+ Mac_OA_BT_None	5
+SPP1+ Mac_OA_BT_None	GZMK+ CD8+ Tem1_OA_BT_None	5
+SPP1+ Mac_OA_BT_None	CD4+ Tex_OA_BT_None	4
+SPP1+ Mac_OA_BT_None	Treg_OA_BT_None	6
+SPP1+ Mac_OA_BT_None	SPP1+ Mac_RA_BT	63
+SPP1+ Mac_OA_BT_None	S100A12+ Mac_RA_BT	53
+SPP1+ Mac_OA_BT_None	Treg_RA_BT	19
+SPP1+ Mac_OA_BT_None	CD4+ Tex_RA_BT	25
+SPP1+ Mac_OA_BT_None	GZMK+ CD8+ Tem1_RA_BT	24
+SPP1+ Mac_OA_BT_None	SPP1+ Mac_RA_AT_Adalimumab	33
+SPP1+ Mac_OA_BT_None	Treg_RA_AT_Adalimumab	23
+SPP1+ Mac_OA_BT_None	CD4+ Tex_RA_AT_Adalimumab	22
+SPP1+ Mac_OA_BT_None	GZMK+ CD8+ Tem1_RA_AT_Adalimumab	19
+SPP1+ Mac_OA_BT_None	S100A12+ Mac_RA_AT_Adalimumab	17
+SPP1+ Mac_OA_BT_None	S100A12+ Mac_RA_AT_Tofacitinib	52
+SPP1+ Mac_OA_BT_None	SPP1+ Mac_RA_AT_Tofacitinib	48
+SPP1+ Mac_OA_BT_None	CD4+ Tex_RA_AT_Tofacitinib	20
+SPP1+ Mac_OA_BT_None	Treg_RA_AT_Tofacitinib	15
+SPP1+ Mac_OA_BT_None	GZMK+ CD8+ Tem1_RA_AT_Tofacitinib	13
+S100A12+ Mac_OA_BT_None	SPP1+ Mac_OA_BT_None	5
+S100A12+ Mac_OA_BT_None	S100A12+ Mac_OA_BT_None	0
+S100A12+ Mac_OA_BT_None	GZMK+ CD8+ Tem1_OA_BT_None	1
+S100A12+ Mac_OA_BT_None	CD4+ Tex_OA_BT_None	1
+S100A12+ Mac_OA_BT_None	Treg_OA_BT_None	1
+S100A12+ Mac_OA_BT_None	SPP1+ Mac_RA_BT	27
+S100A12+ Mac_OA_BT_None	S100A12+ Mac_RA_BT	18
+S100A12+ Mac_OA_BT_None	Treg_RA_BT	7
+S100A12+ Mac_OA_BT_None	CD4+ Tex_RA_BT	10
+S100A12+ Mac_OA_BT_None	GZMK+ CD8+ Tem1_RA_BT	12
+S100A12+ Mac_OA_BT_None	SPP1+ Mac_RA_AT_Adalimumab	14
+S100A12+ Mac_OA_BT_None	Treg_RA_AT_Adalimumab	12
+S100A12+ Mac_OA_BT_None	CD4+ Tex_RA_AT_Adalimumab	8
+S100A12+ Mac_OA_BT_None	GZMK+ CD8+ Tem1_RA_AT_Adalimumab	9
+S100A12+ Mac_OA_BT_None	S100A12+ Mac_RA_AT_Adalimumab	3
+S100A12+ Mac_OA_BT_None	S100A12+ Mac_RA_AT_Tofacitinib	18
+S100A12+ Mac_OA_BT_None	SPP1+ Mac_RA_AT_Tofacitinib	23
+S100A12+ Mac_OA_BT_None	CD4+ Tex_RA_AT_Tofacitinib	7
+S100A12+ Mac_OA_BT_None	Treg_RA_AT_Tofacitinib	7
+S100A12+ Mac_OA_BT_None	GZMK+ CD8+ Tem1_RA_AT_Tofacitinib	3
+GZMK+ CD8+ Tem1_OA_BT_None	SPP1+ Mac_OA_BT_None	5
+GZMK+ CD8+ Tem1_OA_BT_None	S100A12+ Mac_OA_BT_None	1
+GZMK+ CD8+ Tem1_OA_BT_None	GZMK+ CD8+ Tem1_OA_BT_None	4
+GZMK+ CD8+ Tem1_OA_BT_None	CD4+ Tex_OA_BT_None	5
+GZMK+ CD8+ Tem1_OA_BT_None	Treg_OA_BT_None	3
+GZMK+ CD8+ Tem1_OA_BT_None	SPP1+ Mac_RA_BT	35
+GZMK+ CD8+ Tem1_OA_BT_None	S100A12+ Mac_RA_BT	23
+GZMK+ CD8+ Tem1_OA_BT_None	Treg_RA_BT	12
+GZMK+ CD8+ Tem1_OA_BT_None	CD4+ Tex_RA_BT	15
+GZMK+ CD8+ Tem1_OA_BT_None	GZMK+ CD8+ Tem1_RA_BT	11
+GZMK+ CD8+ Tem1_OA_BT_None	SPP1+ Mac_RA_AT_Adalimumab	14
+GZMK+ CD8+ Tem1_OA_BT_None	Treg_RA_AT_Adalimumab	18
+GZMK+ CD8+ Tem1_OA_BT_None	CD4+ Tex_RA_AT_Adalimumab	16
+GZMK+ CD8+ Tem1_OA_BT_None	GZMK+ CD8+ Tem1_RA_AT_Adalimumab	15
+GZMK+ CD8+ Tem1_OA_BT_None	S100A12+ Mac_RA_AT_Adalimumab	5
+GZMK+ CD8+ Tem1_OA_BT_None	S100A12+ Mac_RA_AT_Tofacitinib	24
+GZMK+ CD8+ Tem1_OA_BT_None	SPP1+ Mac_RA_AT_Tofacitinib	26
+GZMK+ CD8+ Tem1_OA_BT_None	CD4+ Tex_RA_AT_Tofacitinib	12
+GZMK+ CD8+ Tem1_OA_BT_None	Treg_RA_AT_Tofacitinib	12
+GZMK+ CD8+ Tem1_OA_BT_None	GZMK+ CD8+ Tem1_RA_AT_Tofacitinib	11
+CD4+ Tex_OA_BT_None	SPP1+ Mac_OA_BT_None	4
+CD4+ Tex_OA_BT_None	S100A12+ Mac_OA_BT_None	1
+CD4+ Tex_OA_BT_None	GZMK+ CD8+ Tem1_OA_BT_None	5
+CD4+ Tex_OA_BT_None	CD4+ Tex_OA_BT_None	2
+CD4+ Tex_OA_BT_None	Treg_OA_BT_None	4
+CD4+ Tex_OA_BT_None	SPP1+ Mac_RA_BT	33
+CD4+ Tex_OA_BT_None	S100A12+ Mac_RA_BT	23
+CD4+ Tex_OA_BT_None	Treg_RA_BT	9
+CD4+ Tex_OA_BT_None	CD4+ Tex_RA_BT	12
+CD4+ Tex_OA_BT_None	GZMK+ CD8+ Tem1_RA_BT	7
+CD4+ Tex_OA_BT_None	SPP1+ Mac_RA_AT_Adalimumab	17
+CD4+ Tex_OA_BT_None	Treg_RA_AT_Adalimumab	13
+CD4+ Tex_OA_BT_None	CD4+ Tex_RA_AT_Adalimumab	12
+CD4+ Tex_OA_BT_None	GZMK+ CD8+ Tem1_RA_AT_Adalimumab	6
+CD4+ Tex_OA_BT_None	S100A12+ Mac_RA_AT_Adalimumab	8
+CD4+ Tex_OA_BT_None	S100A12+ Mac_RA_AT_Tofacitinib	26
+CD4+ Tex_OA_BT_None	SPP1+ Mac_RA_AT_Tofacitinib	28
+CD4+ Tex_OA_BT_None	CD4+ Tex_RA_AT_Tofacitinib	11
+CD4+ Tex_OA_BT_None	Treg_RA_AT_Tofacitinib	10
+CD4+ Tex_OA_BT_None	GZMK+ CD8+ Tem1_RA_AT_Tofacitinib	6
+Treg_OA_BT_None	SPP1+ Mac_OA_BT_None	6
+Treg_OA_BT_None	S100A12+ Mac_OA_BT_None	1
+Treg_OA_BT_None	GZMK+ CD8+ Tem1_OA_BT_None	3
+Treg_OA_BT_None	CD4+ Tex_OA_BT_None	4
+Treg_OA_BT_None	Treg_OA_BT_None	1
+Treg_OA_BT_None	SPP1+ Mac_RA_BT	21
+Treg_OA_BT_None	S100A12+ Mac_RA_BT	17
+Treg_OA_BT_None	Treg_RA_BT	8
+Treg_OA_BT_None	CD4+ Tex_RA_BT	10
+Treg_OA_BT_None	GZMK+ CD8+ Tem1_RA_BT	8
+Treg_OA_BT_None	SPP1+ Mac_RA_AT_Adalimumab	9
+Treg_OA_BT_None	Treg_RA_AT_Adalimumab	9
+Treg_OA_BT_None	CD4+ Tex_RA_AT_Adalimumab	10
+Treg_OA_BT_None	GZMK+ CD8+ Tem1_RA_AT_Adalimumab	8
+Treg_OA_BT_None	S100A12+ Mac_RA_AT_Adalimumab	10
+Treg_OA_BT_None	S100A12+ Mac_RA_AT_Tofacitinib	19
+Treg_OA_BT_None	SPP1+ Mac_RA_AT_Tofacitinib	16
+Treg_OA_BT_None	CD4+ Tex_RA_AT_Tofacitinib	8
+Treg_OA_BT_None	Treg_RA_AT_Tofacitinib	8
+Treg_OA_BT_None	GZMK+ CD8+ Tem1_RA_AT_Tofacitinib	8
+SPP1+ Mac_RA_BT	SPP1+ Mac_OA_BT_None	63
+SPP1+ Mac_RA_BT	S100A12+ Mac_OA_BT_None	27
+SPP1+ Mac_RA_BT	GZMK+ CD8+ Tem1_OA_BT_None	35
+SPP1+ Mac_RA_BT	CD4+ Tex_OA_BT_None	33
+SPP1+ Mac_RA_BT	Treg_OA_BT_None	21
+SPP1+ Mac_RA_BT	SPP1+ Mac_RA_BT	87
+SPP1+ Mac_RA_BT	S100A12+ Mac_RA_BT	154
+SPP1+ Mac_RA_BT	Treg_RA_BT	63
+SPP1+ Mac_RA_BT	CD4+ Tex_RA_BT	76
+SPP1+ Mac_RA_BT	GZMK+ CD8+ Tem1_RA_BT	71
+SPP1+ Mac_RA_BT	SPP1+ Mac_RA_AT_Adalimumab	118
+SPP1+ Mac_RA_BT	Treg_RA_AT_Adalimumab	68
+SPP1+ Mac_RA_BT	CD4+ Tex_RA_AT_Adalimumab	77
+SPP1+ Mac_RA_BT	GZMK+ CD8+ Tem1_RA_AT_Adalimumab	61
+SPP1+ Mac_RA_BT	S100A12+ Mac_RA_AT_Adalimumab	79
+SPP1+ Mac_RA_BT	S100A12+ Mac_RA_AT_Tofacitinib	156
+SPP1+ Mac_RA_BT	SPP1+ Mac_RA_AT_Tofacitinib	152
+SPP1+ Mac_RA_BT	CD4+ Tex_RA_AT_Tofacitinib	66
+SPP1+ Mac_RA_BT	Treg_RA_AT_Tofacitinib	54
+SPP1+ Mac_RA_BT	GZMK+ CD8+ Tem1_RA_AT_Tofacitinib	47
+S100A12+ Mac_RA_BT	SPP1+ Mac_OA_BT_None	53
+S100A12+ Mac_RA_BT	S100A12+ Mac_OA_BT_None	18
+S100A12+ Mac_RA_BT	GZMK+ CD8+ Tem1_OA_BT_None	23
+S100A12+ Mac_RA_BT	CD4+ Tex_OA_BT_None	23
+S100A12+ Mac_RA_BT	Treg_OA_BT_None	17
+S100A12+ Mac_RA_BT	SPP1+ Mac_RA_BT	154
+S100A12+ Mac_RA_BT	S100A12+ Mac_RA_BT	59
+S100A12+ Mac_RA_BT	Treg_RA_BT	49
+S100A12+ Mac_RA_BT	CD4+ Tex_RA_BT	62
+S100A12+ Mac_RA_BT	GZMK+ CD8+ Tem1_RA_BT	56
+S100A12+ Mac_RA_BT	SPP1+ Mac_RA_AT_Adalimumab	99
+S100A12+ Mac_RA_BT	Treg_RA_AT_Adalimumab	54
+S100A12+ Mac_RA_BT	CD4+ Tex_RA_AT_Adalimumab	60
+S100A12+ Mac_RA_BT	GZMK+ CD8+ Tem1_RA_AT_Adalimumab	50
+S100A12+ Mac_RA_BT	S100A12+ Mac_RA_AT_Adalimumab	63
+S100A12+ Mac_RA_BT	S100A12+ Mac_RA_AT_Tofacitinib	120
+S100A12+ Mac_RA_BT	SPP1+ Mac_RA_AT_Tofacitinib	129
+S100A12+ Mac_RA_BT	CD4+ Tex_RA_AT_Tofacitinib	55
+S100A12+ Mac_RA_BT	Treg_RA_AT_Tofacitinib	41
+S100A12+ Mac_RA_BT	GZMK+ CD8+ Tem1_RA_AT_Tofacitinib	39
+Treg_RA_BT	SPP1+ Mac_OA_BT_None	19
+Treg_RA_BT	S100A12+ Mac_OA_BT_None	7
+Treg_RA_BT	GZMK+ CD8+ Tem1_OA_BT_None	12
+Treg_RA_BT	CD4+ Tex_OA_BT_None	9
+Treg_RA_BT	Treg_OA_BT_None	8
+Treg_RA_BT	SPP1+ Mac_RA_BT	63
+Treg_RA_BT	S100A12+ Mac_RA_BT	49
+Treg_RA_BT	Treg_RA_BT	9
+Treg_RA_BT	CD4+ Tex_RA_BT	25
+Treg_RA_BT	GZMK+ CD8+ Tem1_RA_BT	22
+Treg_RA_BT	SPP1+ Mac_RA_AT_Adalimumab	34
+Treg_RA_BT	Treg_RA_AT_Adalimumab	27
+Treg_RA_BT	CD4+ Tex_RA_AT_Adalimumab	23
+Treg_RA_BT	GZMK+ CD8+ Tem1_RA_AT_Adalimumab	20
+Treg_RA_BT	S100A12+ Mac_RA_AT_Adalimumab	27
+Treg_RA_BT	S100A12+ Mac_RA_AT_Tofacitinib	58
+Treg_RA_BT	SPP1+ Mac_RA_AT_Tofacitinib	53
+Treg_RA_BT	CD4+ Tex_RA_AT_Tofacitinib	23
+Treg_RA_BT	Treg_RA_AT_Tofacitinib	14
+Treg_RA_BT	GZMK+ CD8+ Tem1_RA_AT_Tofacitinib	16
+CD4+ Tex_RA_BT	SPP1+ Mac_OA_BT_None	25
+CD4+ Tex_RA_BT	S100A12+ Mac_OA_BT_None	10
+CD4+ Tex_RA_BT	GZMK+ CD8+ Tem1_OA_BT_None	15
+CD4+ Tex_RA_BT	CD4+ Tex_OA_BT_None	12
+CD4+ Tex_RA_BT	Treg_OA_BT_None	10
+CD4+ Tex_RA_BT	SPP1+ Mac_RA_BT	76
+CD4+ Tex_RA_BT	S100A12+ Mac_RA_BT	62
+CD4+ Tex_RA_BT	Treg_RA_BT	25
+CD4+ Tex_RA_BT	CD4+ Tex_RA_BT	15
+CD4+ Tex_RA_BT	GZMK+ CD8+ Tem1_RA_BT	30
+CD4+ Tex_RA_BT	SPP1+ Mac_RA_AT_Adalimumab	49
+CD4+ Tex_RA_BT	Treg_RA_AT_Adalimumab	32
+CD4+ Tex_RA_BT	CD4+ Tex_RA_AT_Adalimumab	28
+CD4+ Tex_RA_BT	GZMK+ CD8+ Tem1_RA_AT_Adalimumab	24
+CD4+ Tex_RA_BT	S100A12+ Mac_RA_AT_Adalimumab	38
+CD4+ Tex_RA_BT	S100A12+ Mac_RA_AT_Tofacitinib	73
+CD4+ Tex_RA_BT	SPP1+ Mac_RA_AT_Tofacitinib	67
+CD4+ Tex_RA_BT	CD4+ Tex_RA_AT_Tofacitinib	27
+CD4+ Tex_RA_BT	Treg_RA_AT_Tofacitinib	22
+CD4+ Tex_RA_BT	GZMK+ CD8+ Tem1_RA_AT_Tofacitinib	20
+GZMK+ CD8+ Tem1_RA_BT	SPP1+ Mac_OA_BT_None	24
+GZMK+ CD8+ Tem1_RA_BT	S100A12+ Mac_OA_BT_None	12
+GZMK+ CD8+ Tem1_RA_BT	GZMK+ CD8+ Tem1_OA_BT_None	11
+GZMK+ CD8+ Tem1_RA_BT	CD4+ Tex_OA_BT_None	7
+GZMK+ CD8+ Tem1_RA_BT	Treg_OA_BT_None	8
+GZMK+ CD8+ Tem1_RA_BT	SPP1+ Mac_RA_BT	71
+GZMK+ CD8+ Tem1_RA_BT	S100A12+ Mac_RA_BT	56
+GZMK+ CD8+ Tem1_RA_BT	Treg_RA_BT	22
+GZMK+ CD8+ Tem1_RA_BT	CD4+ Tex_RA_BT	30
+GZMK+ CD8+ Tem1_RA_BT	GZMK+ CD8+ Tem1_RA_BT	13
+GZMK+ CD8+ Tem1_RA_BT	SPP1+ Mac_RA_AT_Adalimumab	44
+GZMK+ CD8+ Tem1_RA_BT	Treg_RA_AT_Adalimumab	33
+GZMK+ CD8+ Tem1_RA_BT	CD4+ Tex_RA_AT_Adalimumab	28
+GZMK+ CD8+ Tem1_RA_BT	GZMK+ CD8+ Tem1_RA_AT_Adalimumab	24
+GZMK+ CD8+ Tem1_RA_BT	S100A12+ Mac_RA_AT_Adalimumab	31
+GZMK+ CD8+ Tem1_RA_BT	S100A12+ Mac_RA_AT_Tofacitinib	63
+GZMK+ CD8+ Tem1_RA_BT	SPP1+ Mac_RA_AT_Tofacitinib	63
+GZMK+ CD8+ Tem1_RA_BT	CD4+ Tex_RA_AT_Tofacitinib	27
+GZMK+ CD8+ Tem1_RA_BT	Treg_RA_AT_Tofacitinib	21
+GZMK+ CD8+ Tem1_RA_BT	GZMK+ CD8+ Tem1_RA_AT_Tofacitinib	18
+SPP1+ Mac_RA_AT_Adalimumab	SPP1+ Mac_OA_BT_None	33
+SPP1+ Mac_RA_AT_Adalimumab	S100A12+ Mac_OA_BT_None	14
+SPP1+ Mac_RA_AT_Adalimumab	GZMK+ CD8+ Tem1_OA_BT_None	14
+SPP1+ Mac_RA_AT_Adalimumab	CD4+ Tex_OA_BT_None	17
+SPP1+ Mac_RA_AT_Adalimumab	Treg_OA_BT_None	9
+SPP1+ Mac_RA_AT_Adalimumab	SPP1+ Mac_RA_BT	118
+SPP1+ Mac_RA_AT_Adalimumab	S100A12+ Mac_RA_BT	99
+SPP1+ Mac_RA_AT_Adalimumab	Treg_RA_BT	34
+SPP1+ Mac_RA_AT_Adalimumab	CD4+ Tex_RA_BT	49
+SPP1+ Mac_RA_AT_Adalimumab	GZMK+ CD8+ Tem1_RA_BT	44
+SPP1+ Mac_RA_AT_Adalimumab	SPP1+ Mac_RA_AT_Adalimumab	36
+SPP1+ Mac_RA_AT_Adalimumab	Treg_RA_AT_Adalimumab	41
+SPP1+ Mac_RA_AT_Adalimumab	CD4+ Tex_RA_AT_Adalimumab	55
+SPP1+ Mac_RA_AT_Adalimumab	GZMK+ CD8+ Tem1_RA_AT_Adalimumab	33
+SPP1+ Mac_RA_AT_Adalimumab	S100A12+ Mac_RA_AT_Adalimumab	36
+SPP1+ Mac_RA_AT_Adalimumab	S100A12+ Mac_RA_AT_Tofacitinib	99
+SPP1+ Mac_RA_AT_Adalimumab	SPP1+ Mac_RA_AT_Tofacitinib	97
+SPP1+ Mac_RA_AT_Adalimumab	CD4+ Tex_RA_AT_Tofacitinib	39
+SPP1+ Mac_RA_AT_Adalimumab	Treg_RA_AT_Tofacitinib	30
+SPP1+ Mac_RA_AT_Adalimumab	GZMK+ CD8+ Tem1_RA_AT_Tofacitinib	28
+Treg_RA_AT_Adalimumab	SPP1+ Mac_OA_BT_None	23
+Treg_RA_AT_Adalimumab	S100A12+ Mac_OA_BT_None	12
+Treg_RA_AT_Adalimumab	GZMK+ CD8+ Tem1_OA_BT_None	18
+Treg_RA_AT_Adalimumab	CD4+ Tex_OA_BT_None	13
+Treg_RA_AT_Adalimumab	Treg_OA_BT_None	9
+Treg_RA_AT_Adalimumab	SPP1+ Mac_RA_BT	68
+Treg_RA_AT_Adalimumab	S100A12+ Mac_RA_BT	54
+Treg_RA_AT_Adalimumab	Treg_RA_BT	27
+Treg_RA_AT_Adalimumab	CD4+ Tex_RA_BT	32
+Treg_RA_AT_Adalimumab	GZMK+ CD8+ Tem1_RA_BT	33
+Treg_RA_AT_Adalimumab	SPP1+ Mac_RA_AT_Adalimumab	41
+Treg_RA_AT_Adalimumab	Treg_RA_AT_Adalimumab	17
+Treg_RA_AT_Adalimumab	CD4+ Tex_RA_AT_Adalimumab	32
+Treg_RA_AT_Adalimumab	GZMK+ CD8+ Tem1_RA_AT_Adalimumab	28
+Treg_RA_AT_Adalimumab	S100A12+ Mac_RA_AT_Adalimumab	35
+Treg_RA_AT_Adalimumab	S100A12+ Mac_RA_AT_Tofacitinib	63
+Treg_RA_AT_Adalimumab	SPP1+ Mac_RA_AT_Tofacitinib	59
+Treg_RA_AT_Adalimumab	CD4+ Tex_RA_AT_Tofacitinib	28
+Treg_RA_AT_Adalimumab	Treg_RA_AT_Tofacitinib	23
+Treg_RA_AT_Adalimumab	GZMK+ CD8+ Tem1_RA_AT_Tofacitinib	25
+CD4+ Tex_RA_AT_Adalimumab	SPP1+ Mac_OA_BT_None	22
+CD4+ Tex_RA_AT_Adalimumab	S100A12+ Mac_OA_BT_None	8
+CD4+ Tex_RA_AT_Adalimumab	GZMK+ CD8+ Tem1_OA_BT_None	16
+CD4+ Tex_RA_AT_Adalimumab	CD4+ Tex_OA_BT_None	12
+CD4+ Tex_RA_AT_Adalimumab	Treg_OA_BT_None	10
+CD4+ Tex_RA_AT_Adalimumab	SPP1+ Mac_RA_BT	77
+CD4+ Tex_RA_AT_Adalimumab	S100A12+ Mac_RA_BT	60
+CD4+ Tex_RA_AT_Adalimumab	Treg_RA_BT	23
+CD4+ Tex_RA_AT_Adalimumab	CD4+ Tex_RA_BT	28
+CD4+ Tex_RA_AT_Adalimumab	GZMK+ CD8+ Tem1_RA_BT	28
+CD4+ Tex_RA_AT_Adalimumab	SPP1+ Mac_RA_AT_Adalimumab	55
+CD4+ Tex_RA_AT_Adalimumab	Treg_RA_AT_Adalimumab	32
+CD4+ Tex_RA_AT_Adalimumab	CD4+ Tex_RA_AT_Adalimumab	15
+CD4+ Tex_RA_AT_Adalimumab	GZMK+ CD8+ Tem1_RA_AT_Adalimumab	23
+CD4+ Tex_RA_AT_Adalimumab	S100A12+ Mac_RA_AT_Adalimumab	32
+CD4+ Tex_RA_AT_Adalimumab	S100A12+ Mac_RA_AT_Tofacitinib	70
+CD4+ Tex_RA_AT_Adalimumab	SPP1+ Mac_RA_AT_Tofacitinib	74
+CD4+ Tex_RA_AT_Adalimumab	CD4+ Tex_RA_AT_Tofacitinib	25
+CD4+ Tex_RA_AT_Adalimumab	Treg_RA_AT_Tofacitinib	20
+CD4+ Tex_RA_AT_Adalimumab	GZMK+ CD8+ Tem1_RA_AT_Tofacitinib	18
+GZMK+ CD8+ Tem1_RA_AT_Adalimumab	SPP1+ Mac_OA_BT_None	19
+GZMK+ CD8+ Tem1_RA_AT_Adalimumab	S100A12+ Mac_OA_BT_None	9
+GZMK+ CD8+ Tem1_RA_AT_Adalimumab	GZMK+ CD8+ Tem1_OA_BT_None	15
+GZMK+ CD8+ Tem1_RA_AT_Adalimumab	CD4+ Tex_OA_BT_None	6
+GZMK+ CD8+ Tem1_RA_AT_Adalimumab	Treg_OA_BT_None	8
+GZMK+ CD8+ Tem1_RA_AT_Adalimumab	SPP1+ Mac_RA_BT	61
+GZMK+ CD8+ Tem1_RA_AT_Adalimumab	S100A12+ Mac_RA_BT	50
+GZMK+ CD8+ Tem1_RA_AT_Adalimumab	Treg_RA_BT	20
+GZMK+ CD8+ Tem1_RA_AT_Adalimumab	CD4+ Tex_RA_BT	24
+GZMK+ CD8+ Tem1_RA_AT_Adalimumab	GZMK+ CD8+ Tem1_RA_BT	24
+GZMK+ CD8+ Tem1_RA_AT_Adalimumab	SPP1+ Mac_RA_AT_Adalimumab	33
+GZMK+ CD8+ Tem1_RA_AT_Adalimumab	Treg_RA_AT_Adalimumab	28
+GZMK+ CD8+ Tem1_RA_AT_Adalimumab	CD4+ Tex_RA_AT_Adalimumab	23
+GZMK+ CD8+ Tem1_RA_AT_Adalimumab	GZMK+ CD8+ Tem1_RA_AT_Adalimumab	11
+GZMK+ CD8+ Tem1_RA_AT_Adalimumab	S100A12+ Mac_RA_AT_Adalimumab	26
+GZMK+ CD8+ Tem1_RA_AT_Adalimumab	S100A12+ Mac_RA_AT_Tofacitinib	56
+GZMK+ CD8+ Tem1_RA_AT_Adalimumab	SPP1+ Mac_RA_AT_Tofacitinib	53
+GZMK+ CD8+ Tem1_RA_AT_Adalimumab	CD4+ Tex_RA_AT_Tofacitinib	19
+GZMK+ CD8+ Tem1_RA_AT_Adalimumab	Treg_RA_AT_Tofacitinib	15
+GZMK+ CD8+ Tem1_RA_AT_Adalimumab	GZMK+ CD8+ Tem1_RA_AT_Tofacitinib	17
+S100A12+ Mac_RA_AT_Adalimumab	SPP1+ Mac_OA_BT_None	17
+S100A12+ Mac_RA_AT_Adalimumab	S100A12+ Mac_OA_BT_None	3
+S100A12+ Mac_RA_AT_Adalimumab	GZMK+ CD8+ Tem1_OA_BT_None	5
+S100A12+ Mac_RA_AT_Adalimumab	CD4+ Tex_OA_BT_None	8
+S100A12+ Mac_RA_AT_Adalimumab	Treg_OA_BT_None	10
+S100A12+ Mac_RA_AT_Adalimumab	SPP1+ Mac_RA_BT	79
+S100A12+ Mac_RA_AT_Adalimumab	S100A12+ Mac_RA_BT	63
+S100A12+ Mac_RA_AT_Adalimumab	Treg_RA_BT	27
+S100A12+ Mac_RA_AT_Adalimumab	CD4+ Tex_RA_BT	38
+S100A12+ Mac_RA_AT_Adalimumab	GZMK+ CD8+ Tem1_RA_BT	31
+S100A12+ Mac_RA_AT_Adalimumab	SPP1+ Mac_RA_AT_Adalimumab	36
+S100A12+ Mac_RA_AT_Adalimumab	Treg_RA_AT_Adalimumab	35
+S100A12+ Mac_RA_AT_Adalimumab	CD4+ Tex_RA_AT_Adalimumab	32
+S100A12+ Mac_RA_AT_Adalimumab	GZMK+ CD8+ Tem1_RA_AT_Adalimumab	26
+S100A12+ Mac_RA_AT_Adalimumab	S100A12+ Mac_RA_AT_Adalimumab	5
+S100A12+ Mac_RA_AT_Adalimumab	S100A12+ Mac_RA_AT_Tofacitinib	60
+S100A12+ Mac_RA_AT_Adalimumab	SPP1+ Mac_RA_AT_Tofacitinib	57
+S100A12+ Mac_RA_AT_Adalimumab	CD4+ Tex_RA_AT_Tofacitinib	29
+S100A12+ Mac_RA_AT_Adalimumab	Treg_RA_AT_Tofacitinib	22
+S100A12+ Mac_RA_AT_Adalimumab	GZMK+ CD8+ Tem1_RA_AT_Tofacitinib	18
+S100A12+ Mac_RA_AT_Tofacitinib	SPP1+ Mac_OA_BT_None	52
+S100A12+ Mac_RA_AT_Tofacitinib	S100A12+ Mac_OA_BT_None	18
+S100A12+ Mac_RA_AT_Tofacitinib	GZMK+ CD8+ Tem1_OA_BT_None	24
+S100A12+ Mac_RA_AT_Tofacitinib	CD4+ Tex_OA_BT_None	26
+S100A12+ Mac_RA_AT_Tofacitinib	Treg_OA_BT_None	19
+S100A12+ Mac_RA_AT_Tofacitinib	SPP1+ Mac_RA_BT	156
+S100A12+ Mac_RA_AT_Tofacitinib	S100A12+ Mac_RA_BT	120
+S100A12+ Mac_RA_AT_Tofacitinib	Treg_RA_BT	58
+S100A12+ Mac_RA_AT_Tofacitinib	CD4+ Tex_RA_BT	73
+S100A12+ Mac_RA_AT_Tofacitinib	GZMK+ CD8+ Tem1_RA_BT	63
+S100A12+ Mac_RA_AT_Tofacitinib	SPP1+ Mac_RA_AT_Adalimumab	99
+S100A12+ Mac_RA_AT_Tofacitinib	Treg_RA_AT_Adalimumab	63
+S100A12+ Mac_RA_AT_Tofacitinib	CD4+ Tex_RA_AT_Adalimumab	70
+S100A12+ Mac_RA_AT_Tofacitinib	GZMK+ CD8+ Tem1_RA_AT_Adalimumab	56
+S100A12+ Mac_RA_AT_Tofacitinib	S100A12+ Mac_RA_AT_Adalimumab	60
+S100A12+ Mac_RA_AT_Tofacitinib	S100A12+ Mac_RA_AT_Tofacitinib	63
+S100A12+ Mac_RA_AT_Tofacitinib	SPP1+ Mac_RA_AT_Tofacitinib	130
+S100A12+ Mac_RA_AT_Tofacitinib	CD4+ Tex_RA_AT_Tofacitinib	63
+S100A12+ Mac_RA_AT_Tofacitinib	Treg_RA_AT_Tofacitinib	46
+S100A12+ Mac_RA_AT_Tofacitinib	GZMK+ CD8+ Tem1_RA_AT_Tofacitinib	39
+SPP1+ Mac_RA_AT_Tofacitinib	SPP1+ Mac_OA_BT_None	48
+SPP1+ Mac_RA_AT_Tofacitinib	S100A12+ Mac_OA_BT_None	23
+SPP1+ Mac_RA_AT_Tofacitinib	GZMK+ CD8+ Tem1_OA_BT_None	26
+SPP1+ Mac_RA_AT_Tofacitinib	CD4+ Tex_OA_BT_None	28
+SPP1+ Mac_RA_AT_Tofacitinib	Treg_OA_BT_None	16
+SPP1+ Mac_RA_AT_Tofacitinib	SPP1+ Mac_RA_BT	152
+SPP1+ Mac_RA_AT_Tofacitinib	S100A12+ Mac_RA_BT	129
+SPP1+ Mac_RA_AT_Tofacitinib	Treg_RA_BT	53
+SPP1+ Mac_RA_AT_Tofacitinib	CD4+ Tex_RA_BT	67
+SPP1+ Mac_RA_AT_Tofacitinib	GZMK+ CD8+ Tem1_RA_BT	63
+SPP1+ Mac_RA_AT_Tofacitinib	SPP1+ Mac_RA_AT_Adalimumab	97
+SPP1+ Mac_RA_AT_Tofacitinib	Treg_RA_AT_Adalimumab	59
+SPP1+ Mac_RA_AT_Tofacitinib	CD4+ Tex_RA_AT_Adalimumab	74
+SPP1+ Mac_RA_AT_Tofacitinib	GZMK+ CD8+ Tem1_RA_AT_Adalimumab	53
+SPP1+ Mac_RA_AT_Tofacitinib	S100A12+ Mac_RA_AT_Adalimumab	57
+SPP1+ Mac_RA_AT_Tofacitinib	S100A12+ Mac_RA_AT_Tofacitinib	130
+SPP1+ Mac_RA_AT_Tofacitinib	SPP1+ Mac_RA_AT_Tofacitinib	67
+SPP1+ Mac_RA_AT_Tofacitinib	CD4+ Tex_RA_AT_Tofacitinib	56
+SPP1+ Mac_RA_AT_Tofacitinib	Treg_RA_AT_Tofacitinib	41
+SPP1+ Mac_RA_AT_Tofacitinib	GZMK+ CD8+ Tem1_RA_AT_Tofacitinib	42
+CD4+ Tex_RA_AT_Tofacitinib	SPP1+ Mac_OA_BT_None	20
+CD4+ Tex_RA_AT_Tofacitinib	S100A12+ Mac_OA_BT_None	7
+CD4+ Tex_RA_AT_Tofacitinib	GZMK+ CD8+ Tem1_OA_BT_None	12
+CD4+ Tex_RA_AT_Tofacitinib	CD4+ Tex_OA_BT_None	11
+CD4+ Tex_RA_AT_Tofacitinib	Treg_OA_BT_None	8
+CD4+ Tex_RA_AT_Tofacitinib	SPP1+ Mac_RA_BT	66
+CD4+ Tex_RA_AT_Tofacitinib	S100A12+ Mac_RA_BT	55
+CD4+ Tex_RA_AT_Tofacitinib	Treg_RA_BT	23
+CD4+ Tex_RA_AT_Tofacitinib	CD4+ Tex_RA_BT	27
+CD4+ Tex_RA_AT_Tofacitinib	GZMK+ CD8+ Tem1_RA_BT	27
+CD4+ Tex_RA_AT_Tofacitinib	SPP1+ Mac_RA_AT_Adalimumab	39
+CD4+ Tex_RA_AT_Tofacitinib	Treg_RA_AT_Adalimumab	28
+CD4+ Tex_RA_AT_Tofacitinib	CD4+ Tex_RA_AT_Adalimumab	25
+CD4+ Tex_RA_AT_Tofacitinib	GZMK+ CD8+ Tem1_RA_AT_Adalimumab	19
+CD4+ Tex_RA_AT_Tofacitinib	S100A12+ Mac_RA_AT_Adalimumab	29
+CD4+ Tex_RA_AT_Tofacitinib	S100A12+ Mac_RA_AT_Tofacitinib	63
+CD4+ Tex_RA_AT_Tofacitinib	SPP1+ Mac_RA_AT_Tofacitinib	56
+CD4+ Tex_RA_AT_Tofacitinib	CD4+ Tex_RA_AT_Tofacitinib	12
+CD4+ Tex_RA_AT_Tofacitinib	Treg_RA_AT_Tofacitinib	19
+CD4+ Tex_RA_AT_Tofacitinib	GZMK+ CD8+ Tem1_RA_AT_Tofacitinib	16
+Treg_RA_AT_Tofacitinib	SPP1+ Mac_OA_BT_None	15
+Treg_RA_AT_Tofacitinib	S100A12+ Mac_OA_BT_None	7
+Treg_RA_AT_Tofacitinib	GZMK+ CD8+ Tem1_OA_BT_None	12
+Treg_RA_AT_Tofacitinib	CD4+ Tex_OA_BT_None	10
+Treg_RA_AT_Tofacitinib	Treg_OA_BT_None	8
+Treg_RA_AT_Tofacitinib	SPP1+ Mac_RA_BT	54
+Treg_RA_AT_Tofacitinib	S100A12+ Mac_RA_BT	41
+Treg_RA_AT_Tofacitinib	Treg_RA_BT	14
+Treg_RA_AT_Tofacitinib	CD4+ Tex_RA_BT	22
+Treg_RA_AT_Tofacitinib	GZMK+ CD8+ Tem1_RA_BT	21
+Treg_RA_AT_Tofacitinib	SPP1+ Mac_RA_AT_Adalimumab	30
+Treg_RA_AT_Tofacitinib	Treg_RA_AT_Adalimumab	23
+Treg_RA_AT_Tofacitinib	CD4+ Tex_RA_AT_Adalimumab	20
+Treg_RA_AT_Tofacitinib	GZMK+ CD8+ Tem1_RA_AT_Adalimumab	15
+Treg_RA_AT_Tofacitinib	S100A12+ Mac_RA_AT_Adalimumab	22
+Treg_RA_AT_Tofacitinib	S100A12+ Mac_RA_AT_Tofacitinib	46
+Treg_RA_AT_Tofacitinib	SPP1+ Mac_RA_AT_Tofacitinib	41
+Treg_RA_AT_Tofacitinib	CD4+ Tex_RA_AT_Tofacitinib	19
+Treg_RA_AT_Tofacitinib	Treg_RA_AT_Tofacitinib	7
+Treg_RA_AT_Tofacitinib	GZMK+ CD8+ Tem1_RA_AT_Tofacitinib	15
+GZMK+ CD8+ Tem1_RA_AT_Tofacitinib	SPP1+ Mac_OA_BT_None	13
+GZMK+ CD8+ Tem1_RA_AT_Tofacitinib	S100A12+ Mac_OA_BT_None	3
+GZMK+ CD8+ Tem1_RA_AT_Tofacitinib	GZMK+ CD8+ Tem1_OA_BT_None	11
+GZMK+ CD8+ Tem1_RA_AT_Tofacitinib	CD4+ Tex_OA_BT_None	6
+GZMK+ CD8+ Tem1_RA_AT_Tofacitinib	Treg_OA_BT_None	8
+GZMK+ CD8+ Tem1_RA_AT_Tofacitinib	SPP1+ Mac_RA_BT	47
+GZMK+ CD8+ Tem1_RA_AT_Tofacitinib	S100A12+ Mac_RA_BT	39
+GZMK+ CD8+ Tem1_RA_AT_Tofacitinib	Treg_RA_BT	16
+GZMK+ CD8+ Tem1_RA_AT_Tofacitinib	CD4+ Tex_RA_BT	20
+GZMK+ CD8+ Tem1_RA_AT_Tofacitinib	GZMK+ CD8+ Tem1_RA_BT	18
+GZMK+ CD8+ Tem1_RA_AT_Tofacitinib	SPP1+ Mac_RA_AT_Adalimumab	28
+GZMK+ CD8+ Tem1_RA_AT_Tofacitinib	Treg_RA_AT_Adalimumab	25
+GZMK+ CD8+ Tem1_RA_AT_Tofacitinib	CD4+ Tex_RA_AT_Adalimumab	18
+GZMK+ CD8+ Tem1_RA_AT_Tofacitinib	GZMK+ CD8+ Tem1_RA_AT_Adalimumab	17
+GZMK+ CD8+ Tem1_RA_AT_Tofacitinib	S100A12+ Mac_RA_AT_Adalimumab	18
+GZMK+ CD8+ Tem1_RA_AT_Tofacitinib	S100A12+ Mac_RA_AT_Tofacitinib	39
+GZMK+ CD8+ Tem1_RA_AT_Tofacitinib	SPP1+ Mac_RA_AT_Tofacitinib	42
+GZMK+ CD8+ Tem1_RA_AT_Tofacitinib	CD4+ Tex_RA_AT_Tofacitinib	16
+GZMK+ CD8+ Tem1_RA_AT_Tofacitinib	Treg_RA_AT_Tofacitinib	15
+GZMK+ CD8+ Tem1_RA_AT_Tofacitinib	GZMK+ CD8+ Tem1_RA_AT_Tofacitinib	7
