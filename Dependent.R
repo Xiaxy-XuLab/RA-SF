@@ -99,4 +99,34 @@ tmarkerlist <- list(
     "Proliferating CD8+ T" = c("STMN1", "TYMS", "MKI67", "TOP2A", "UBE2C", "CD8A"), # nolint
     "Proliferating NK" = c("UBE2C", "BIRC5", "KIF20A", "TYMS", "SPC25", "TOP2A", "MKI67", "KLRC1", "KLRD1", "NKG7") # nolint
 )
+diagnostic_signature <- unique(c(
+    "SPP1", "CD44", "PTGER4", "LAMP1", "FAM3C", "CD74", "COPA",
+    "ICAM1", "SPN", "ITGAL", "TNFRSF1A", "FASLG", "NRP1", "VEGFB",
+    "FLT1", "CLEC2D", "TNF", "ICOS", "FAS", "CD40", "CD40LG", "LGALS9",
+    "HAVCR2", "SORL1", "PLXNB2", "SEMA4D", "MIF", "TNFRSF14", "PDCD1",
+    "TNFRSF1B", "TFRC", "TNFSF13B", "HLA-F", "LILRB2", "LILRB1", "CCL4",
+    "CCR5", "SLC7A1", "IL15", "BTLA", "TNFRSF14", "CXCR6", "CXCL16",
+    "CCL7", "IFNG", "CD2", "CD58", "PTPRC", "MRC1", "CD28", "CD86", "SELL",
+    "SELPLG", "CD99", "PILRA", "SIGLEC1", "CD6", "ALCAM", "IGFL2", "IGFLR1",
+    "CCL2", "CCL3", "CCL4", "CCL7", "CXCL16", "CCL3L1", "CCR1", "CCR5", "SDC4",
+    "CCR2", "CXCR3", "CXCL13", "CXCR6", "IL1B", "IL1RAP", "ICAM3", "HLA-DRA",
+    "TNFSF12", "IL1RN", "MMP9", "ITGB1", "HBEGF", "HLA-A", "A2M", "ITGB2",
+    "SEMA4D", "SELL", "PECAM1", "TNFSF13B", "HLA-E", "ADAM17", "ITGAM",
+    "ITGB7", "IL18", "IL15", "PIK3CB", "OSM", "RAB27A", "NCOR1", "YY1",
+    "BTG2", "B4GALT1", "GNAS", "LRRFIP1", "IKZF3", "PBXIP1", "MAF", "CLEC2B",
+    "MLLT6", "JUND", "TPM4", "SOD2", "S100A9", "PTPN1", "ITGA4", "GZMB", "VIM",
+    "STAT5B", "STAT3", "SOCS3", "SBNO2", "S100A8", "NEAT1", "MCL1", "KLF6",
+    "JUNB", "JUN", "IRF1", "IL6ST", "FAS", "CDKN1B", "BRD2", "BHLHE40", "AHNAK",
+    "LTB", "TIMP1", "LGALS3", "CD320", "AREG", "SEMA4D", "FN1", "ADAM12",
+    "ADAM17", "HMGB1", "NAMPT", "UTS2", "ANXA1", "EMP1", "ACTN1", "FTH1",
+    "LDHA", "RTN4", "PIM3", "ADAM9", "NEDD9", "JMJD1C", "ZMIZ1", "SKIL",
+    "FOSL2", "TAGLN2", "CD55", "ADAM17", "VCAN", "TAPBP", "CXCL3", "TNS3",
+    "NDRG1", "S100A10", "RBPJ", "IL6R", "NEAT1", "KDM6B", "BHLHE40", "TPM4",
+    "TIMP1", "SERPINE1", "ITGAX", "ITGA5", "GSTO1", "VEGFA", "TLR2", "STAT1",
+    "SOCS3", "PTGER2", "PLAUR", "PIM1", "NFKBIA", "IRF1", "ICAM1", "GBP1",
+    "FCGR3A", "CXCL2", "FASLG", "TNFRSF10B", "TNFRSF10A", "TNFSF10", "CSF1R",
+    "CSF1", "CD55", "ADGRE5", "ALOX5", "ALOX5AP", "SELPLG", "C5AR1", "RPS19",
+    "LTBR", "TIGIT", "NECTIN2", "CD226", "PDCD1", "SLC7A1", "TNFRSF10D",
+    "CSF1", "SIRPA", "TNFSF12", "TNFRSF12A", "CTLA4"
+))
 #################################################################
