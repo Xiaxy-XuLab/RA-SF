@@ -129,4 +129,14 @@ diagnostic_signature <- unique(c(
     "LTBR", "TIGIT", "NECTIN2", "CD226", "PDCD1", "SLC7A1", "TNFRSF10D",
     "CSF1", "SIRPA", "TNFSF12", "TNFRSF12A", "CTLA4"
 ))
+disease_severity_signature <- c("SPP1", "STAT1", "ETV7", "IRF1", "EOMES")
+ACR20_Y_signature <- c(
+    "STAT1", "IRF1", "GBP5", "GZMA", "GZMH",
+    "GZMK", "CCL5", "FCGR3A", "HLA-A", "MT2A", "GBP1",
+    "IFITM3", "IFI16", "IFNGR1", "LAG3", "PDCD1", "NFKBIA"
+)
+ACR20_N_signature <- c(
+    "HIF1A", "IFI30", "IL1B", "JUN", "CXCL13", "TIGIT",
+    "CTLA4", "S100A9", "MIF", "IFITM1", "CXCR4", "JUND", "ISG15"
+)
 #################################################################
